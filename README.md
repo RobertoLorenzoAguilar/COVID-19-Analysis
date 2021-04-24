@@ -137,9 +137,9 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## FINAL
+## Final
 
-If all was fine you will find the covid_size_reduction.csv with the range of ages of a woman's with covid.
+If all was fine you will find the **covid_size_reduction.csv** with the range of ages of a woman's with covid.
 
 
 
