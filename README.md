@@ -86,12 +86,12 @@ Downloading and analyzing COVID data
 the following project shows how to analyze information about pregnant women who had convid in sonora.
 
 Fields used of the database 210422COVID19MEXICO:
-*EMBARAZO
-*ENTIDAD_UM 
-*SEXO
-*FECHA_DEF 
-*EDAD
-*CLASIFICACION_FINAL  
+* EMBARAZO
+* ENTIDAD_UM 
+* SEXO
+* FECHA_DEF 
+* EDAD
+* CLASIFICACION_FINAL  
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
