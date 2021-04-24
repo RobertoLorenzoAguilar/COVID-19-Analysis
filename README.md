@@ -117,13 +117,18 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone  https://github.com/RobertoLorenzoAguilar/COVID-19-Analysis.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
+2. Build the docker image
    ```
-3. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
+    docker build -t ubuntu_covid
+   ```
+3. Start the container 
+```
+docker start ubuntu_covid 
+```
+
+4. Run the container 
+   ```
+   docker exec -it ubuntu_covid bin/bash
    ```
 
 
