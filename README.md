@@ -93,10 +93,10 @@ Fields used of the database 210422COVID19MEXICO:
 * EDAD
 * CLASIFICACION_FINAL  
 
-### Data Souce With
+### Data Souce Information
 
 This section contains the link to COVID-19 cases in México, also you can download the files  .csv that can help you with additional information about to catalogs.
-* [Bootstrap](https://www.gob.mx/salud/documentos/datos-abiertos-152127)
+* [COVID19-DataSource](https://www.gob.mx/salud/documentos/datos-abiertos-152127)
 
 
 <!-- GETTING STARTED -->
