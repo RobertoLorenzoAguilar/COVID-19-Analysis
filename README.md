@@ -119,13 +119,12 @@ This is an example of how to list things you need to use the software and how to
    ```
 2. Build the docker image
    ```
-    docker build -t ubuntu_covid
+   docker build -t ubuntu_covid
    ```
 3. Start the container 
-```
-docker start ubuntu_covid 
-```
-
+   ```
+   docker start ubuntu_covid 
+   ```
 4. Run the container 
    ```
    docker exec -it ubuntu_covid bin/bash
