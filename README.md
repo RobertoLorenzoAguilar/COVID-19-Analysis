@@ -30,7 +30,7 @@ Downloading and analyzing COVID data
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Images/docker-commands.jpg" alt="Logo">
+    <img src="Images/docker-commands.PNG" alt="Logo">
   </a>
 
   <h3 align="center">DOCKERS & BASH</h3>
