@@ -109,19 +109,19 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 * you need have Installed Docker, you can find all information in: [Docker](https://docs.docker.com/get-docker/)
+* you need have Installed Git, you can find all information in: [Git](https://git-scm.com/book/en/v2)
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone  https://github.com/RobertoLorenzoAguilar/COVID-19-Analysis.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+3. Enter your API in `config.js`
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```
