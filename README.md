@@ -81,7 +81,7 @@ Downloading and analyzing COVID data
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 the following project shows how to analyze information about pregnant women who had convid in sonora.
 
