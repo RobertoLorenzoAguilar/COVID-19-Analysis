@@ -121,9 +121,9 @@ This is an example of how to list things you need to use the software and how to
    ```
    docker build -t ubuntu .
    ```
-3. Create a new container ubuntu_container ubuntu
+3. Create a new container "instance of the image"
    ```
-   docker build -t ubuntu_covid.
+   docker ubuntu_container ubuntu
    ```
 4. Start the container 
    ```
