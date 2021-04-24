@@ -33,10 +33,10 @@ Downloading and analyzing COVID data
     <img src="Images/docker-commands.jpg" alt="Logo">
   </a>
 
-  <h3 align="center">DOCKERS && BASH</h3>
+  <h3 align="center">DOCKERS & BASH</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+     working with data covid!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
