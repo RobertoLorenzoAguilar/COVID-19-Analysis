@@ -117,9 +117,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone  https://github.com/RobertoLorenzoAguilar/COVID-19-Analysis.git
    ```
-2. Build the docker image
+2. Build the docker image note: no forget the final dot ".", after the next command
    ```
-   docker build -t ubuntu_covid
+   docker build -t ubuntu_covid.
    ```
 3. Start the container 
    ```
