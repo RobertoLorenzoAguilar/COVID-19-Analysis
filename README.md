@@ -137,11 +137,9 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## FINAL
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+If all was fine you will find the covid_size_reduction.csv with the range of ages of a woman's with covid.
 
 
 
