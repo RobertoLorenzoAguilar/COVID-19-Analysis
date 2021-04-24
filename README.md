@@ -93,17 +93,10 @@ Fields used of the database 210422COVID19MEXICO:
 * EDAD
 * CLASIFICACION_FINAL  
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+### Data Souce With
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+This section contains the link to COVID-19 cases in México, also you can download the files  .csv that can help you with additional information about to catalogs.
+* [Bootstrap](https://www.gob.mx/salud/documentos/datos-abiertos-152127)
 
 
 <!-- GETTING STARTED -->
