@@ -9,6 +9,10 @@ Downloading and analyzing COVID data
   </a>
 </p>
 
+  <p align="center">
+       let's go!
+    <br />
+  </p>
 
 
 <!-- TABLE OF CONTENTS -->
