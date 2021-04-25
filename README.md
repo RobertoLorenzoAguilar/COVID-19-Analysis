@@ -7,21 +7,6 @@ Downloading and analyzing COVID data
   <a>
     <img src="Images/docker-commands.PNG" alt="Logo">
   </a>
-
-  <h3 align="center">DOCKERS & BASH</h3>
-
-  <p align="center">
-     working with data covid!
-    <br />
-    <a><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a>View Demo</a>
-    ·
-    <a> Bug</a>
-    ·
-    <a>Request Feature</a>
-  </p>
 </p>
 
 
