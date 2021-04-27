@@ -11,4 +11,3 @@ ADD covid_script.sh  /
 
 ENTRYPOINT ["/covid_script.sh"]
 
-CMD ["bash"]
