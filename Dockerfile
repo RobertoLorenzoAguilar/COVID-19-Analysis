@@ -1,13 +1,12 @@
-FROM ubuntu
+#getting base image ubuntu
+FROM ubuntu:latest
 
 LABEL Roberto Aguilar<robertolorenzoaguilarith@gmail.com>
 
-RUN mkdir -p /home/covid
-WORKDIR /home/covid
+WORKDIR /root
 
 RUN  apt-get -y update && apt-get install -y apt-utils unzip curl csvkit 
-     
-ADD covid_script.sh  /
 
-ENTRYPOINT ["/covid_script.sh"]
+COPY covid_script.sh /root/covid_script.sh
 
+ENTRYPOINT ["/bin/bash", "covid_script.sh"]
