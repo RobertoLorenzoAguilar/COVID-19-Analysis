@@ -95,3 +95,11 @@ This is an example of how to list things you need to use the software and how to
 
 If all was fine you will find the **covid_size_reduction.csv** with the range of ages of a woman's with covid.
 
+## PD.
+If you want to create the image and container also, you can use docker GUI   and catch the log of the process. Like in the below image
+<p align="center">
+  <a>
+    <img src="log_gui_docker.png" alt="Logo">
+  </a>
+</p>
+
